@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe1813124CE9552A857708066E34f68c6D6bEB922",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0xe1813124ce9552a857708066e34f68c6d6beb922",
+  "NETWORK": {
+    "NAME": "Rinkeby Test Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Okay Bears Pixel",
+  "SYMBOL": "OBP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/okay-bears-pixel",
+  "SHOW_BACKGROUND": true
+}
